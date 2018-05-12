@@ -36,6 +36,8 @@ description: "The Road to Oz: In Which Is Related How Dorothy Gale of Kansas, Th
   \ and documents the adventures of Dorothy Gale's fourth visit to the Land of Oz.\n\
   The book was dedicated to Joslyn Stanton Baum, the author's first grandson, the\
   \ child of Baum's eldest son Frank Joslyn Baum.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26624#The-Road-to-Oz
 gutenberg_issued: '2008-08-15'
 gutenberg_type: Text
 identifiers:
